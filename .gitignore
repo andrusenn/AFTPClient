@@ -1,0 +1,7 @@
+/bin
+/.settings
+/commons-net-3.6
+.classpath
+.project
+build.xml
+core.jar
